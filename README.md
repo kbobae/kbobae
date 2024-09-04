@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:8A2BE2&height=300&section=header&text=Welcome to Bobae's%20github&fontSize=50&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:8A2BE2&height=300&section=header&text=Welcome%20to%20Bobae's%20github&fontSize=50&fontColor=fff" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
